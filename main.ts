@@ -1,5 +1,5 @@
 //% color="#AA278D"
-namespace multiplayerConnection {
+namespace multiplayer {
     //% block="on connect"
     export function onConnect(handler: () => void) {
         handler("Hello World!");
