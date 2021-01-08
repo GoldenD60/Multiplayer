@@ -1,6 +1,6 @@
 {
     "name": "multiplayer",
-    "description": "",
+    "description": "Adds multiplayer communication",
     "dependencies": {
         "device": "*"
     },
